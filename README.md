@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Khimmyy👋
+I'm currently studying at STI College Cubao.
+I'm currently learning Information Technology.
 
 <!--
 **khimmyy/khimmyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
